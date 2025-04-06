@@ -48,7 +48,7 @@ I'm always seeking to improve my programming skills and contribute with real val
 ## 📍 Location
 
 - Gaza, Palestine 🇵🇸  
-- 📞 Phone: +972 59 431 8545  
+- 📞 WhatsApp: +972 59 431 8545  
 - 📧 Email: alsaeydjalakhras@gmail.com  
 
 ---
