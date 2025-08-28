@@ -1,6 +1,6 @@
 # Welcome to my GitHub! 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alsaeyd-j-alakhras-788349313/)](https://www.linkedin.com/in/alsaeyd-j-alakhras-788349313/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alsaeyd-j-alakhras-788349313/)](https://www.linkedin.com/in/alsaeyd-alakhras/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alsaeydjalakhras@gmail.com)](mailto:alsaeydjalakhras@gmail.com)
 
 
