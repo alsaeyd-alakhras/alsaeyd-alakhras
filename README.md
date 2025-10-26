@@ -1,63 +1,142 @@
-# Welcome to my GitHub! 👋
+<div align="center">
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alsaeyd-j-alakhras-788349313/)](https://www.linkedin.com/in/alsaeyd-alakhras/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alsaeydjalakhras@gmail.com)](mailto:alsaeydjalakhras@gmail.com)
+# 👋 Welcome to My GitHub Profile!
 
+### Full Stack Developer | Laravel & Vue.js Specialist | Server Expert
 
-## 👨‍💻 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alsaeyd-alakhras/)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alsaeydjalakhras@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/972594318545)
 
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+```javascript
+const alsaeyd = {
+    name: "Al-Saeyd J Al-Akhras",
+    title: "Full Stack Developer & Software Engineer",
+    location: "Gaza, Palestine 🇵🇸",
+    specialization: ["Backend Development (PHP/Laravel)", "Frontend (Vue.js)", "Server Management"],
+    currentStatus: "Freelancer",
+    education: "Intelligent Systems Engineering @ Alaqsa University",
+    workExperience: "Software Engineer @ Salah Islamic Society",
+    passion: "Creating tech solutions that address real market needs"
+};
+```
 <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
 
-I'm a **Full Stack Developer** and software engineer specializing in backend development with **PHP (Laravel)** and Vue js in Front-end.  
-I also have strong experience with servers and networks. I've delivered major projects for large companies in **Palestine**, always aiming to create tech solutions that address real market needs.
+I'm a **Full Stack Developer** with strong expertise in backend development using **PHP (Laravel)** and modern frontend with **Vue.js**. I have extensive experience with servers and networks, having delivered major projects for large companies in **Palestine**. My goal is always to create practical technology solutions that solve real problems.
 
-- 🔭 Currently working Freelanser
-- 🧠 Studying **Intelligent Systems Engineering** at *Alaqsa University*  
-- 💼 Software Engineer at **Salah Islamic Society**
-
-I'm always seeking to improve my programming skills and contribute with real value to the teams I join.
-
----
-
-## 💡 Skills & Technologies
-
-- **Frontend**:
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/Saeyd-Jamal/)](https://github.com/Saeyd-Jamal/)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/Saeyd-Jamal/)](https://github.com/Saeyd-Jamal/)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/Saeyd-Jamal/)](https://github.com/Saeyd-Jamal/)
-[![Tailwind](https://img.shields.io/badge/-Tailwind-black?style=flat-square&logo=tailwind&link=https://github.com/Saeyd-Jamal/)](https://github.com/Saeyd-Jamal/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/Saeyd-Jamal/)](https://github.com/Saeyd-Jamal/)
-[![jQuery](https://img.shields.io/badge/-jQuery-563D7C?style=flat-square&logo=jquery&link=https://github.com/Saeyd-Jamal/)](https://github.com/Saeyd-Jamal/)
-[![Vue.js](https://img.shields.io/badge/-Vuejs-black?style=flat-square&logo=vue.js&link=https://github.com/Saeyd-Jamal/)](https://github.com/Saeyd-Jamal/)
-
-- **Backend**:
-[![PHP](https://img.shields.io/badge/-PHP-1572B6?style=flat-square&logo=php&link=https://github.com/Saeyd-Jamal/)](https://github.com/Saeyd-Jamal/)
-[![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=Laravel&link=https://github.com/Saeyd-Jamal/)](https://github.com/Saeyd-Jamal/)
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://github.com/Saeyd-Jamal/)](https://github.com/Saeyd-Jamal/)
-[![Python](https://img.shields.io/badge/-Python-E34F26?style=flat-square&logo=Python&link=https://github.com/Saeyd-Jamal/)](https://github.com/Saeyd-Jamal/)
-
-- **Other**: Network configuration, hardware maintenance,
-[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/Saeyd-Jamal/)](https://github.com/Saeyd-Jamal/)
-[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&link=https://github.com/Saeyd-Jamal/)](https://github.com/Saeyd-Jamal/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/Saeyd-Jamal/)](https://github.com/Saeyd-Jamal/)
-
-- 🧠 Interested in AI: Participated in national competition & got 1st place in a Python-based AI project
+🎯 **Current Focus:**
+- 🔭 Working as a **Freelancer** on diverse web projects
+- 🧠 Studying **Intelligent Systems Engineering** at *Alaqsa University*
+- 💼 Serving as **Software Engineer** at **Salah Islamic Society**
+- 🚀 Constantly improving my programming skills and seeking meaningful contributions
 
 ---
 
-## 📍 Location
+## 🛠️ Technical Skills
 
-- Gaza, Palestine 🇵🇸  
-- 📞 WhatsApp: +972 59 431 8545  
-- 📧 Email: alsaeydjalakhras@gmail.com  
+<div align="center">
+
+### Frontend Technologies
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend Technologies
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Tools & Other Skills
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+</div>
+
+**Additional Expertise:**
+- 🖥️ **VPS Management:** Linux & Windows Server configuration and maintenance
+- 🌐 **Network Configuration:** Setting up and optimizing network infrastructure
+- 🔧 **Hardware Maintenance:** Troubleshooting and system optimization
+- 🤖 **AI Interest:** Participated in national competition & won **1st place** in a Python-based AI project
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-![Saeyd's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saeyd-Jamal&show_icons=true)
+<div align="center">
+
+![Saeyd's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saeyd-Jamal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saeyd-Jamal&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saeyd-Jamal&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
-Thanks for stopping by! 🙌  
-Feel free to reach out for collaboration or just to say hi! 😊
+## 📍 Location & Contact
+
+<div align="center">
+
+📍 **Gaza, Palestine** 🇵🇸
+
+📞 **WhatsApp:** +972 59 431 8545
+
+📧 **Email:** alsaeydjalakhras@gmail.com
+
+🔗 **LinkedIn:** [alsaeyd-alakhras](https://www.linkedin.com/in/alsaeyd-alakhras/)
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+🥇 **1st Place** in National AI Competition (Python-based project)
+
+💼 Delivered major projects for large companies in Palestine
+
+🌟 4+ years of experience building high-quality web applications
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect!
+
+I'm always open to interesting conversations and collaboration opportunities.
+
+Feel free to reach out if you want to:
+- 🤝 Collaborate on a project
+- 💡 Discuss new ideas
+- ☕ Just say hi!
+
+**Thanks for visiting my profile!** ✨
+
+---
+
+⭐️ From [Saeyd-Jamal](https://github.com/Saeyd-Jamal) with ❤️
+
+</div>
