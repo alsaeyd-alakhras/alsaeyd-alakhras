@@ -28,7 +28,7 @@ const alsaeyd = {
 ```
 <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
 
-I'm a **Full Stack Developer** with strong expertise in backend development using **PHP (Laravel)** and modern frontend with **Vue.js**. I have extensive experience with servers and networks, having delivered major projects for large companies in **Palestine**. My goal is always to create practical technology solutions that solve real problems.
+I'm a **Full Stack Developer** with strong expertise in backend development using **PHP (Laravel)** and modern frontend with **Vue.js** & **Tailwind CSS**. I have extensive experience with servers and networks, having delivered major projects for large companies in **Palestine**. My goal is always to create practical technology solutions that solve real problems.
 
 🎯 **Current Focus:**
 - 🔭 Working as a **Freelancer** on diverse web projects
@@ -64,7 +64,6 @@ I'm a **Full Stack Developer** with strong expertise in backend development usin
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
@@ -137,6 +136,6 @@ Feel free to reach out if you want to:
 
 ---
 
-⭐️ From [Saeyd-Jamal](https://github.com/Saeyd-Jamal) with ❤️
+⭐️ From [Alsaeyd-Alakhras](https://github.com/alsaeyd-alakhras) with ❤️
 
 </div>
