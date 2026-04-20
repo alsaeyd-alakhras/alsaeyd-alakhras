@@ -71,7 +71,7 @@ open_to:  ["Freelance projects", "Long-term collaborations", "Interesting ideas"
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=alsaeyd-alakhras&theme=algolia&no-frame=true&column=7&margin-w=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=alsaeyd-alakhras&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
 
 </div>
 
@@ -104,31 +104,6 @@ open_to:  ["Freelance projects", "Long-term collaborations", "Interesting ideas"
 </picture>
 
 </div>
-
-> 💡 **To enable the snake animation**, create a GitHub Actions workflow in `.github/workflows/snake.yml`:
-> 
-> ```yaml
-> name: Generate Snake
-> on:
->   schedule: [{ cron: "0 0 * * *" }]
->   workflow_dispatch:
-> jobs:
->   generate:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk@v3
->         with:
->           github_user_name: ${{ github.repository_owner }}
->           outputs: |
->             dist/github-contribution-grid-snake.svg
->             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v3
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
 
 ---
 
