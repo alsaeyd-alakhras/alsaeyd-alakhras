@@ -1,94 +1,158 @@
 <div align="center">
 
-# 👋 Welcome to My GitHub Profile!
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Alsaeyd+%F0%9F%91%8B;Full+Stack+Developer;Laravel+%2B+Vue.js+%2B+Tailwind;Building+for+the+Arab+World+%F0%9F%8C%8D" alt="Typing SVG" />
 
-### Full Stack Developer | Laravel & Vue.js | Business & Financial Systems
+<br/>
 
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=alsaeyd-alakhras&style=for-the-badge&color=0e75b6&label=Profile+Views" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/alsaeyd-alakhras?style=for-the-badge&color=58A6FF&label=Followers" />
+
+</div>
+
+---
+
+## 🧑‍💻 Who Am I?
+
+```yaml
+name:     "Alsaeyd J Al-Akhras (السيد الأخرسي)"
+location: "Gaza, Palestine 🇵🇸"
+role:     "Full Stack Developer"
+focus:    ["Business Systems", "Financial Platforms", "Scalable Web Apps"]
+agency:   "Sirbit — Freelance & Agency"
+years:    "4+ years of real-world experience"
+currently_building:
+  - "Multi-tenant business management systems"
+  - "Laravel + Vue.js financial dashboards"
+  - "Digital infrastructure for Arab markets 🌍"
+open_to:  ["Freelance projects", "Long-term collaborations", "Interesting ideas"]
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,python&theme=dark" />
+
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,jquery,vue,tailwind,bootstrap&theme=dark" />
+
+### 🔧 Tools & Infra
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma,nginx&theme=dark" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alsaeyd-alakhras&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alsaeyd-alakhras&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=alsaeyd-alakhras&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=alsaeyd-alakhras&theme=algolia&no-frame=true&column=7&margin-w=4" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+[![Financial System](https://github-readme-stats.vercel.app/api/pin/?username=alsaeyd-alakhras&repo=financial_management_system_advance&theme=github_dark&hide_border=true)](https://github.com/alsaeyd-alakhras/financial_management_system_advance)
+&nbsp;
+[![Project Management](https://github-readme-stats.vercel.app/api/pin/?username=alsaeyd-alakhras&repo=projects_management_system_salah&theme=github_dark&hide_border=true)](https://github.com/alsaeyd-alakhras/projects_management_system_salah)
+
+[![Pharmacy System](https://github-readme-stats.vercel.app/api/pin/?username=alsaeyd-alakhras&repo=pharmacy_management_system&theme=github_dark&hide_border=true)](https://github.com/alsaeyd-alakhras/pharmacy_management_system)
+&nbsp;
+[![TechnoPOS](https://github-readme-stats.vercel.app/api/pin/?username=alsaeyd-alakhras&repo=technova_pos&theme=github_dark&hide_border=true)](https://github.com/alsaeyd-alakhras/technova_pos)
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alsaeyd-alakhras/alsaeyd-alakhras/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alsaeyd-alakhras/alsaeyd-alakhras/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/alsaeyd-alakhras/alsaeyd-alakhras/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+> 💡 **To enable the snake animation**, create a GitHub Actions workflow in `.github/workflows/snake.yml`:
+> 
+> ```yaml
+> name: Generate Snake
+> on:
+>   schedule: [{ cron: "0 0 * * *" }]
+>   workflow_dispatch:
+> jobs:
+>   generate:
+>     runs-on: ubuntu-latest
+>     steps:
+>       - uses: Platane/snk@v3
+>         with:
+>           github_user_name: ${{ github.repository_owner }}
+>           outputs: |
+>             dist/github-contribution-grid-snake.svg
+>             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+>       - uses: crazy-max/ghaction-github-pages@v3
+>         with:
+>           target_branch: output
+>           build_dir: dist
+>         env:
+>           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+> ```
+
+---
+
+## 🏅 Highlights
+
+| 🏆 | Achievement |
+|---|---|
+| 🥇 | **1st Place** — National AI Competition (Python) |
+| 💼 | Built financial & business systems for real organizations |
+| 🌍 | Founder of **Sirbit** — Web agency serving Arab markets |
+| 🖥️ | Expert in **Linux & Windows VPS** deployment & config |
+| 📚 | Computer Engineering student — building while learning |
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-alsaeyd--alakhras.vercel.app-0e75b6?style=for-the-badge&logo=vercel&logoColor=white)](https://alsaeyd-alakhras.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alsaeyd-alakhras/)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alsaeydjalakhras@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-@alsaeyd.tech-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alsaeyd.tech)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/972594318545)
-
-</div>
-
----
-
-## 🧑‍💻 About Me
-
-<img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
-
-I’m a Full Stack Developer with 4+ years of experience building real-world web systems using Laravel and Vue.js.
-
-I specialize in developing business-oriented platforms such as financial management systems, dashboards, and scalable web applications for organizations and companies. I focus on clean architecture, maintainable code, and delivering solutions that solve real problems.
-
-Currently working as a freelancer and collaborating with organizations on long-term systems.
-
-
-### Current Focus
-- Building business and financial web systems with Laravel
-- Developing scalable dashboards and internal platforms
-- Improving system architecture and code quality
-
----
-
-## 🛠️ Technical Skills
-
-<div align="center">
-
-### Backend Technologies
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Frontend Technologies
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-
-### Tools & Other Skills
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-
-**Additional Expertise:**
-- 🖥️ **VPS Management:** Linux & Windows Server configuration and maintenance
-- 🤖 **AI Interest:** Participated in national competition & won **1st place** in a Python-based AI project
-
----
-
-## 📍 Location & Contact
-
-<div align="center">
-
-📍 **Gaza, Palestine** 🇵🇸
-
-📞 **WhatsApp:** +972 59 431 8545
-
-📧 **Email:** alsaeydjalakhras@gmail.com
-
-🔗 **LinkedIn:** [alsaeyd-alakhras](https://www.linkedin.com/in/alsaeyd-alakhras/)
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-    
-- Built financial and business management systems for organizations
-- 4+ years of experience in real-world web development
+[![Gmail](https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alsaeydjalakhras@gmail.com)
 
 </div>
 
@@ -96,19 +160,8 @@ Currently working as a freelancer and collaborating with organizations on long-t
 
 <div align="center">
 
-### 💬 Let's Connect!
+*"Code is craft. Every system I build solves a real problem for real people."*
 
-I'm always open to interesting conversations and collaboration opportunities.
-
-Feel free to reach out if you want to:
-- 🤝 Collaborate on a project
-- 💡 Discuss new ideas
-- ☕ Just say hi!
-
-**Thanks for visiting my profile!** ✨
-
----
-
-⭐️ From [Alsaeyd-Alakhras](https://github.com/alsaeyd-alakhras) with ❤️
+⭐ From [Alsaeyd Al-Akhras](https://github.com/alsaeyd-alakhras) — Gaza, Palestine 🇵🇸
 
 </div>
