@@ -67,11 +67,13 @@ open_to:  ["Freelance projects", "Long-term collaborations", "Interesting ideas"
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=alsaeyd-alakhras&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+| 🥇 | 🌍 | 🖥️ | 📚 | 💼 |
+|:---:|:---:|:---:|:---:|:---:|
+| **1st Place** National AI Competition | Founder of **Sirbit** Agency | **Linux & Windows** VPS Expert | Computer Engineering Student | **4+ Years** Real-World Systems |
 
 </div>
 
